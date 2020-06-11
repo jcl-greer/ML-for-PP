@@ -1,0 +1,65 @@
+Model_Name,params,mean_test_r2_Score,mean_test_mean_sqrd_error
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 100}",0.7539492998094717,0.002115054257303402
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 5, 'n_estimators': 100}",0.7406899033802657,0.0022091402979087203
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 10}",0.7386313432413169,0.0022092168879507593
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 5, 'n_estimators': 10}",0.7263252665928778,0.0023179672227018086
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 5}",0.7245357293599227,0.0022630100772099643
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 2}",0.7210352392649014,0.002272985231764576
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 10, 'n_estimators': 100}",0.7070310976396404,0.0024585551979079056
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 10, 'n_estimators': 10}",0.6904527760705877,0.002547753010380815
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 10}",0.684416626108329,0.002760275968384097
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 5, 'n_estimators': 10}",0.6723172232641947,0.002888104220523095
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 100}",0.6705095811670936,0.0028810236050872003
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 5, 'min_samples_split': 10}",0.669677814185266,0.0026033926534932326
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 5, 'n_estimators': 100}",0.6603325268907603,0.0029583027288732364
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 10, 'n_estimators': 100}",0.6233000821767342,0.003198240560942646
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 10, 'n_estimators': 10}",0.6167207569119232,0.0032816891218462266
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 5}",0.6048399463370276,0.003274902944715595
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 2, 'n_estimators': 100}",0.5840528442831388,0.0035592373868711465
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 5, 'n_estimators': 100}",0.5794691044172777,0.003588931952470218
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 10}",0.5731361267605787,0.0035055602269515045
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 5, 'min_samples_split': 2}",0.5712837571360606,0.0034018251588110375
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 2, 'n_estimators': 10}",0.5681844578919705,0.0036509367550569766
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 5, 'n_estimators': 10}",0.566260483017338,0.0036680170493333577
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 10, 'n_estimators': 100}",0.5573670973119593,0.0037463352765403127
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 2}",0.5421882613882391,0.003881966164920313
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 5}",0.5411822865173869,0.003888014658860806
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 10, 'n_estimators': 10}",0.5401693386694248,0.003824166038465817
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 3, 'min_samples_split': 10}",0.5054150559028079,0.004036730544321086
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 2, 'n_estimators': 100}",0.4065011538393711,0.005166259018808378
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 5, 'n_estimators': 100}",0.40597470954099796,0.005163932340703944
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 10, 'n_estimators': 100}",0.391938699652071,0.005233439626722132
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 5, 'n_estimators': 10}",0.3482321734234982,0.005584354798474027
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 2, 'n_estimators': 10}",0.34779272750712453,0.0055854058968379606
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 10, 'n_estimators': 10}",0.33038734359735766,0.005671243273040958
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 2}",0.2933909255668296,0.006181703375412676
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 5}",0.2527586782207625,0.006352031071306031
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 3, 'min_samples_split': 10}",0.25228148233478215,0.006356215804254373
+LinearRegression,{'fit_intercept': True},0.2015242887899223,0.006672534031104354
+LinearRegression,{'fit_intercept': False},0.2012732238071645,0.006674365776476634
+Ridge,{'alpha': 1},0.19421780781113426,0.0067307831786129185
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 10, 'n_estimators': 100}",0.10435224203164128,0.007547795361091261
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 5, 'n_estimators': 100}",0.10435224203164128,0.007547795361091261
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 2, 'n_estimators': 100}",0.10435224203164128,0.007547795361091261
+Ridge,{'alpha': 50},0.08932805147543868,0.007525410236787219
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 10, 'n_estimators': 10}",0.0847278719594916,0.007663257632922168
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 5, 'n_estimators': 10}",0.0847278719594916,0.007663257632922168
+RandomForestRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 2, 'n_estimators': 10}",0.0847278719594916,0.007663257632922168
+Ridge,{'alpha': 100},0.06037474827781513,0.0077652499186134415
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 2}",0.056273970737531445,0.007907970521622574
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 10}",0.056273970737531445,0.007907970521622574
+DecisionTreeRegressor,"{'criterion': 'mse', 'max_depth': 1, 'min_samples_split': 5}",0.056273970737531445,0.007907970521622574
+Ridge,{'alpha': 1000},-0.018798866391861478,0.008467066259917541
+Lasso,{'alpha': 1},-0.06247427961416925,0.008899242627788862
+Lasso,{'alpha': 50},-0.06247427961416925,0.008899242627788862
+Lasso,{'alpha': 100},-0.06247427961416925,0.008899242627788862
+Lasso,{'alpha': 1000},-0.06247427961416925,0.008899242627788862
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 10, 'n_estimators': 10}",-0.13960894818229486,0.009604002818218898
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 5, 'n_estimators': 10}",-0.13960894818229486,0.009604002818218898
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 2, 'n_estimators': 10}",-0.13960894818229486,0.009604002818218898
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 10, 'n_estimators': 100}",-0.14214031141150998,0.009641535451629732
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 5, 'n_estimators': 100}",-0.14214031141150998,0.009641535451629732
+RandomForestRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 2, 'n_estimators': 100}",-0.14214031141150998,0.009641535451629732
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 2}",-0.16073475467251375,0.009722852145438736
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 10}",-0.16073475467251375,0.009722852145438736
+DecisionTreeRegressor,"{'criterion': 'mae', 'max_depth': 1, 'min_samples_split': 5}",-0.16073475467251375,0.009722852145438736
