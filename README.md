@@ -27,3 +27,10 @@ Finally, figures and tables for the analysis are inside the following folders:
 
 - Figures
 - Tables
+
+
+![](gifmap.gif)
+
+
+
+
