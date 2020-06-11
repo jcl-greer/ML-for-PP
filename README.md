@@ -8,10 +8,10 @@ The repository has four notebook:
 
 - 0.Data_Builder.ipynb
 - 1.Model_Training_Testing_Deploying.ipynb
-- 2.Visualizations.ipybn
+- 2.Visualizations.ipybn (**The .shp file in /geo has to be unzipped before running it**)
 - 4.Model_Variations.ipynb
 
-It also contains eight csv files from which we extracted our features and target:
+It also contains seven csv files from which we extracted our features and target:
 
 - All counties cardio.csv
 - CountyHealth.csv
@@ -28,6 +28,7 @@ Finally, figures and tables for the analysis are inside the following folders:
 - Figures
 - Tables
 
+### The map below is a visualization of the predictions we are getting for our period of interests.
 
 ![](gifmap.gif)
 
