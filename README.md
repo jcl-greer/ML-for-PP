@@ -33,7 +33,7 @@ Finally, figures and tables for the analysis are inside the following folders:
 
 The folder geo contains the geodata to create the maps. **The .shp file in /geo has to be unzipped before running notebook 2.Visualizations.** 
 
-### The map below is a visualization of the predictions we are getting for our period of interests.
+### The map below is a visualization of the predictions we are getting for our period of interest.
 
 ![](gifmap.gif)
 
