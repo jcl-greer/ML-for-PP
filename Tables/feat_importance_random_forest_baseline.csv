@@ -1,0 +1,36 @@
+Feature,Values
+ICU Beds,34
+Urban_Influence_Code_2013,33
+m50,32
+Active Physicians per 100000 Population 2018 (AAMC),31
+All Specialties (AAMC),30
+Med_HH_Income_Percent_of_State_Total_2018,29
+Average Daily PM2.5,28
+Total_age65plus,27
+Density per square mile of land area - Housing units,26
+Premature Death,25
+Total_age0to17,24
+% Severe Housing Problems,23
+Cardiovascular Deaths Per 100K,22
+Mar Temp AVG / F,21
+Density per square mile of land area - Population,20
+Percent_Hispanic,19
+Percent_TwoPlusRaces,18
+cases,17
+Day_of_Week,16
+Apr Temp AVG / F,15
+Percent of adults with less than a high school diploma 2014-18,14
+POP_ESTIMATE_2018,13
+m50_index,12
+Total_age18to64,11
+Percent_White,10
+Employed_2018,9
+transit_scores - population weighted averages aggregated from town/city level to county,8
+Percent_Asian,7
+Percent_NativeHawaiianPI,6
+Median_Household_Income_2018,5
+Unemployment_rate_2018,4
+% Adults with Obesity,3
+deaths,2
+Percent_Black,1
+Percent_NativeAmerican,0
