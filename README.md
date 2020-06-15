@@ -5,7 +5,7 @@ Richard Chang, John Greer, Nicholas Pierson , Nicolás Torres-Echeverry
 
 This repository has the content of a project for the course CAPP 30254 1 Machine Learning for Public Policy, taught at the University of Chicago during the eccentric Spring of 2020.
 
-The Project aims to predict the Covid19 infection rates for African American as a percentage of the AA population at the county level during the second half of April 2020. It employs a supervised machine learning algorithm that trains and tests the data doing a grid search over and using as input a Florida dataset. It finds that a Random Forest Regressor model provides the best predictions and deploys this model over the data for all US Counties.
+The Project aims to predict the Covid19 infection rates for African Americans as a percentage of the AA population at the county level during the second half of April 2020. It employs a supervised machine learning algorithm that trains and tests the data doing a grid search over and using as input a Florida dataset. It finds that a Random Forest Regressor model provides the best predictions and deploys this model over the data for all US Counties.
 
 The repository has four notebook:
 
